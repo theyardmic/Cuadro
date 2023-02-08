@@ -17,8 +17,9 @@ document.querySelector('#app').innerHTML = `
     <a href="https://strucker.netlify.app" target="_blank">
       <img src="./strucker.png" class="logo vanilla" alt="Strucker logo" />
     </a>
-
+<div class="footer">
     &copy; 2023 Strucker Inc. All rights reserved.
+    </div>
    
   </div>
 `
