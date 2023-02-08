@@ -13,10 +13,10 @@ document.querySelector('#app').innerHTML = `
     Meanwhile, you can check out my other projects.
   </p>
     <a href="https://b-friday.netlify.app" target="_blank">
-      <img src="merchy.png" class="logo" alt="Merchy logo" />
+      <img src="./merchy.png" class="logo" alt="Merchy logo" />
     </a>
     <a href="https://strucker.netlify.app" target="_blank">
-      <img src="strucker.png" class="logo vanilla" alt="Strucker logo" />
+      <img src="./strucker.png " class="logo vanilla" alt="Strucker logo" />
     </a>
    
   </div>
