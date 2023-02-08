@@ -1,5 +1,6 @@
 :root {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: "trebuchet ms", "lucida grande", "lucida sans unicode", "lucida sans", tahoma, sans-serif;
+    sans-serif;
   line-height: 1.5;
   font-weight: 400;
 
@@ -35,7 +36,10 @@ h1 {
   font-size: 3.2em;
   line-height: 1.1;
 }
+p{
+font-size: 1.5em;
 
+}
 #app {
   max-width: 1280px;
   margin: 0 auto;
@@ -44,7 +48,7 @@ h1 {
 }
 
 .logo {
-  height: 10em; 
+  height: 15em; 
   padding: 1.5em;
   will-change: filter;
   transition: filter 300ms;
