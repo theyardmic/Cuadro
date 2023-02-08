@@ -30,8 +30,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[]: # Path: README.md
+&copy;2023 Strucker Inc. All Rights Reserved.
 
-### 2023 Strucker Inc. All Rights Reserved.
-
-[]: # Path: .gitignore
