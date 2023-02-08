@@ -44,7 +44,7 @@ h1 {
 }
 
 .logo {
-  height: 6em;
+  height: 10em; 
   padding: 1.5em;
   will-change: filter;
   transition: filter 300ms;
@@ -53,7 +53,7 @@ h1 {
   filter: drop-shadow(0 0 2em #646cffaa);
 }
 .logo.vanilla:hover {
-  filter: drop-shadow(0 0 2em #f7df1eaa);
+  filter: drop-shadow(10 10 2em #1e63f7aa);
 }
 
 .card {

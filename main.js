@@ -4,18 +4,19 @@ import { setupCounter } from './counter.js'
 
 document.querySelector('#app').innerHTML = `
   <div>
-    <a href="https://vitejs.dev" target="_blank">
-      <img src="/vite.svg" class="logo" alt="Vite logo" />
+    <a href="https://b-friday.netlify.app" target="_blank">
+      <img src="/merchy.png" class="logo" alt="Merchy logo" />
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-      <img src="${javascriptLogo}" class="logo vanilla" alt="JavaScript logo" />
+    <a href="https://strucker.netlify.app" target="_blank">
+      <img src="strucker.png" class="logo vanilla" alt="JavaScript logo" />
     </a>
     <h1>Cuadro Digital Art Market Place</h1>
     <div class="card">
       <button id="counter" type="button"></button>
     </div>
     <p class="read-the-docs">
-      Click on the Cuadro logo to learn more
+    We're working on the system. We'll be live soon. <br />
+      Meanwhile, you can check my other projects linked above.
     </p>
   </div>
 `
