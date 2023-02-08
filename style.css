@@ -48,7 +48,7 @@ font-size: 1.5em;
 
 .logo {
   height: 15em; 
-  padding: 1.5em;
+  padding: 0.8nem;
   will-change: filter;
   transition: filter 300ms;
 }
@@ -90,7 +90,9 @@ footer{
   margin-top: 2rem;
   font-size: 0.8em;
   color: #888;
-  
+  align-items: center;
+  justify-content: center;
+
 }
 @media (prefers-color-scheme: light) {
   :root {

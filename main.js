@@ -18,7 +18,8 @@ document.querySelector('#app').innerHTML = `
       <img src="./strucker.png" class="logo vanilla" alt="Strucker logo" />
     </a>
 <div class="footer">
-    &copy; 2023 Strucker Inc. All rights reserved.
+    &copy; 2023 Cuadro </br>
+   Strucker Inc. All rights reserved.
     </div>
    
   </div>
