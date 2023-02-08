@@ -19,7 +19,8 @@ document.querySelector('#app').innerHTML = `
     </a>
 <div class="footer">
     &copy; 2023 Cuadro </br>
-   Strucker Inc. All rights reserved.
+   Strucker Inc. </br>
+   All rights reserved.
     </div>
    
   </div>
