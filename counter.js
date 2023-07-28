@@ -4,6 +4,6 @@ export function setupCounter(element) {
     counter = count
     element.innerHTML = `You have saved ${counter} Kes`
   }
-  element.addEventListener('click', () => setCounter(counter + 1))
+  element.addEventListener('click', () => setCounter(counter + 1000))
   setCounter(0)
 }

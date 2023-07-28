@@ -87,11 +87,10 @@ button:focus-visible {
 }
 
 footer{
-  margin-top: 2rem;
+  margin-bottom: 10px;
   font-size: 0.8em;
   color: #888;
-  align-items: center;
-  justify-content: center;
+  
 
 }
 @media (prefers-color-scheme: light) {
