@@ -2,7 +2,7 @@ export function setupCounter(element) {
   let counter = 0
   const setCounter = (count) => {
     counter = count
-    element.innerHTML = `You have ${counter} NFTs`
+    element.innerHTML = `You have saved ${counter} Kes`
   }
   element.addEventListener('click', () => setCounter(counter + 1))
   setCounter(0)
